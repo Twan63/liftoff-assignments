@@ -11,20 +11,29 @@ This application would be used to connect trainer and client in a rather innovat
 
 ### Features
 +Goal setting 
+
 +Workout Setup
+
 +Youtube lookup
+
 +User scheduling 
+
 +Payment 
 
 ### Technologies
 +C# ASP.NET
+
 +MySQL 
+
 +Youtube API
+
 +OpenACH 
 
 ### What I'll Have to Learn
 +Youtube API
+
 +OpenACH 
+
 +Google Calendar API
 ### Project Tracker
 https://trello.com/b/ZOOgBKAS/physicaltrainingapp
